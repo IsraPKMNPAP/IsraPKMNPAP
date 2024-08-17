@@ -1,5 +1,8 @@
-## Hi there 👋
-Hola
+## Holas
+Soy Israel Astudillo, ingeniero civil industrial y estudiante del magíster de ciencia de datos de la Universidad de Chile.
+Estoy interesado en desempeñarme haciendo ciencia de datos para apoyar la gestión en la empresa y aportar valor.
+Me gusta jugar videojuegos, los idiomas y tocar saxofón.
+
 <!--
 **IsraPKMNPAP/IsraPKMNPAP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
